@@ -8,6 +8,7 @@ import os
 import time 
 import _thread 
   
+
 def get_os(): 
   ##获取操作系统类型
   os = platform.system() 
